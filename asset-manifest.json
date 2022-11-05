@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audius/static/css/main.3f87c7c7.css",
+    "main.js": "/audius/static/js/main.be26394c.js",
+    "static/js/787.5c1e6a90.chunk.js": "/audius/static/js/787.5c1e6a90.chunk.js",
+    "index.html": "/audius/index.html",
+    "main.3f87c7c7.css.map": "/audius/static/css/main.3f87c7c7.css.map",
+    "main.be26394c.js.map": "/audius/static/js/main.be26394c.js.map",
+    "787.5c1e6a90.chunk.js.map": "/audius/static/js/787.5c1e6a90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f87c7c7.css",
+    "static/js/main.be26394c.js"
+  ]
+}
